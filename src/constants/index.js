@@ -116,15 +116,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Asp.Net Developer",
+    company_name: "Vertical TechSoft Pvt.Ltd",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2022 - June 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "As a .NET developer, I have built scalable web applications using ASP.NET Core and MVC Core, integrated APIs with Web API, and managed data with ADO.NET and SQL Server ",
+      "I've developed responsive front-ends with HTML, CSS, Bootstrap, JavaScript, jQuery, and AJAX, and created dynamic user interfaces with React.",
+      "My work also includes performance optimization and implementing best practices in software development.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
